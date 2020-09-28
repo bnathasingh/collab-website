@@ -1,5 +1,5 @@
 ---
-title: "colab website"
+title: "collab website"
 output: html_document
 ---
 
@@ -7,3 +7,4 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+![picture of car](http://pngimg.com/uploads/alfa_romeo/alfa_romeo_PNG75.png)
